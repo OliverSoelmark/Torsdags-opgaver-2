@@ -11,5 +11,5 @@ println ("jeg er" + alder + "år gammel");
 if (glad == true){
 println ("Jeg klapper med mine hænder");
 } else {
-  println ("jeg tweaker");
+  println ("jeg klapper ikke mine hænder");
 }
